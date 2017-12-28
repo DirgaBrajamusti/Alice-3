@@ -1,2 +1,2 @@
 # Alice-3.1
-A java fundamental tool project file
+Just a Alice java project from collage
